@@ -106,7 +106,7 @@ plt.show()
 - **Senior roles** (Data Scientists, Data Engineers) show a wider salary range, indicating higher pay potential with experience.
 
 ### 4. Optimal Skills for Data Analysts
-To determine optimal skills (high demand & high pay), I analyzed demand percentage vs. median salary.
+I analyzed demand percentage vs. median salary to determine optimal skills (high demand & high pay).
 
 #### Visualization
 ```python
@@ -117,7 +117,7 @@ plt.show()
 #### Insights
 - **Oracle** offers the highest median salary (~$97K) despite lower demand.
 - **Python, Tableau, and SQL Server** balance high demand and good salary potential.
-- **Excel and SQL** are crucial for job postings but have lower salary leverage compared to specialized skills.
+- **Excel and SQL** are crucial for job postings but have lower salary leverage than specialized skills.
 
 ## Conclusion
 This project provides key insights into the data analyst job market, highlighting in-demand skills, salary trends, and optimal skill combinations. Key takeaways include:
@@ -125,12 +125,4 @@ This project provides key insights into the data analyst job market, highlightin
 - **Specialized technical skills (AWS, Git, dplyr, Bitbucket) can lead to higher salaries.**
 - **Tracking skill trends** helps professionals stay ahead in the job market.
 
-For more details, explore my notebooks:
-- **[2_Skill_Demand.ipynb](#)**: Most demanded skills analysis
-- **[3_Skills_Trend.ipynb](#)**: Skill trends over time
-- **[4_Salary_Analysis.ipynb](#)**: Salary insights
-- **[5_Optimal_Skills.ipynb](#)**: High-demand & high-paying skills
-
----
-Thank you for exploring my analysis! Feel free to check out the full project and code on [GitHub](#).
 
